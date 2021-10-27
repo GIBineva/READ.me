@@ -18,5 +18,5 @@
 
 <br />
 
-## Hope we can collaborate soon!
+## Hope we can collaborate soon! Have a nice daay and stay safe!
 ![Alt Text](https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif)
