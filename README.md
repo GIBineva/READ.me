@@ -1,8 +1,11 @@
 ### Hello here! 🖐 I'm Gegrana Bineva 📌
 
+## About me: 
 - I’m currently learning HTML5 & CSS3 and C++ 
 - Pronouns: She/Them
 - Reach me: GIBineva20@codingburgas.bg
+
+<br />
 
 <br />
 
